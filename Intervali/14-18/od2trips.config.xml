@@ -1,0 +1,14 @@
+<configuration>
+
+    <input>
+        <taz-files value="C:\Rijeka\taz_ri.xml"/>
+		<od-matrix-files value="C:\Rijeka\Intervali\14-18\flownew.od"/>
+    </input>
+	
+	<output>
+		<output-file value="od_trips.odtrips.xml"/>
+	</output>	
+	
+	
+</configuration>
+

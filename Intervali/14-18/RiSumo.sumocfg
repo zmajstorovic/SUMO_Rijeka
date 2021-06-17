@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 10/23/20 11:29:16 by Eclipse SUMO GUI Version 1.7.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Rijeka\rijeka.net.xml"/>
+		<route-files value="C:\Rijeka\Intervali\00-06\od_route_file.odtrips.rou.xml"/>
+    </input>
+	<time>
+		<begin value="50400"/>
+		<end value="64800"/>
+	</time>
+</configuration>

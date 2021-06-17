@@ -1,0 +1,17 @@
+<configuration>
+
+    <input>
+        <net-file value="C:\Rijeka\rijeka.net.xml"/>
+		<route-files value="C:\Rijeka\Intervali\14-18\od_trips.odtrips.xml"/>
+	
+    </input>
+	
+	<output>
+		<output-file value="od_route_file.odtrips.rou.xml"/>
+	</output>
+	
+	<report>
+		<xml-validation value="never"/>
+		<no-step-log value="true"/>
+	</report>
+</configuration>
